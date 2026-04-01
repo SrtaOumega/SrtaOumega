@@ -8,7 +8,7 @@
 <h1>🌐Social:</h1>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1428121209869963434)
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](href="https://www.linkedin.com/in/giovanna-siqueira-99364337a/">)
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-siqueira-99364337a/>)
 
 
 
