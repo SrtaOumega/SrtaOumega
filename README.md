@@ -9,9 +9,8 @@
 - 🇧🇷
 
 <h1>🌐Social:</h1><br></br>
-<img src="https://camo.githubusercontent.com/0be2cfbaf88e5ca2046e509fda49c68fb6795539491a139a866dcfbf24a8cfe2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465">
-
-<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href="https://discord.com/users/1428121209869963434">
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/giovanna-siqueira-99364337a/">
 
 <h1>🖥️Linguagens</h1>
 
